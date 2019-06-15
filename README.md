@@ -1,6 +1,6 @@
 # scssBootstrapBoilerplate
 
-Starter boilerplate for SCSS projects with Bootstrap library
+Boilerplate for SCSS/Bootstrap project
 
 ### Getting Started
 
@@ -8,9 +8,10 @@ Clone this repo, install dependencies, then start with the following commands:
 
 ```
 > git clone https://github.com/svgerasimov/SCSSBootstarpBoilerplate.git
-> cd scssBootstarpBoilerplate
+> cd scssBootstarpBoilerplate - you name it!
 > npm install
-> npm start
 > npm run build:css
+> npm start
+
 ```
 
